@@ -1,8 +1,6 @@
 ### Hi there 👋, My Name is Robin!
 #### I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.
-![I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.](https://e0.pxfuel.com/wallpapers/110/282/desktop-wallpaper-benjamin-btd6.jpg)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+![I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.](https://media.tenor.com/o1yd5aCUCG8AAAAC/benjamin-the-monikey-hes-from-btds.gif)
 
 Skills: PYTHON / R / C++ / JULIA / HASKELL / JAVA / BASH / MATLAB / HASKELL
 
