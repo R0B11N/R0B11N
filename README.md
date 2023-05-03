@@ -2,7 +2,7 @@
 #### I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.
 ![I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.](https://media.tenor.com/o1yd5aCUCG8AAAAC/benjamin-the-monikey-hes-from-btds.gif)
 
-Skills: PYTHON / R / C++ / JULIA / HASKELL / JAVA / BASH / MATLAB / HASKELL
+Skills: PYTHON / R / C++ / JULIA / HASKELL / JAVA / BASH / MATLAB / 
 
 - 🔭 I’m currently working on My Undergraduate Thesis! 
 - 📫 How to reach me: Linkedin 
