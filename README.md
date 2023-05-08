@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is Robin!
 #### I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.
-![image](https://cdn.discordapp.com/attachments/906212540021895178/1105268412986441808/download_6.png)
-![I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.](https://media.tenor.com/o1yd5aCUCG8AAAAC/benjamin-the-monikey-hes-from-btds.gif)
+![image]([https://cdn.discordapp.com/attachments/906212540021895178/1105268412986441808/download_6.png](https://media.discordapp.net/attachments/906212540021895178/1105270220328812655/OT4Pg7wfxQ16wBahzfAAAAAElFTkSuQmCC.png?width=563&height=173))
+![I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.](https://media.tenor.com/o1yd5aCUCG8AAAAC/benjamin-the-monikey-hes-from-btds.gif?width=563&height=173))
 
 Skills: PYTHON / R / C++ / JULIA / HASKELL / JAVA / BASH / MATLAB / 
 
