@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Robin!
+# Hey! My name is Robin.
 #### I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.
 ![image](https://cdn.discordapp.com/attachments/906212540021895178/1105270930818740224/OT4Pg7wfxQ16wBahzfAAAAAElFTkSuQmCC.png)
 ## I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.
