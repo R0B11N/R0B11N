@@ -5,7 +5,7 @@
 
 Skills: PYTHON / R / C++ / JULIA / HASKELL / JAVA / BASH / MATLAB / 
 
-- ![I’m currently working on My Undergraduate Thesis!](https://cdn.discordapp.com/emojis/986879238458196078.webp?size=128&quality=lossless)
+- I’m currently working on My Undergraduate Thesis! ![image](https://cdn.discordapp.com/emojis/986879238458196078.webp?size=56&quality=lossless)
 - 📫 How to reach me: Linkedin 
 - ⚡ Fun fact: I'm a polyglot, huge sports fan, sous chef, and pianist. 
 
