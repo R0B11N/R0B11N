@@ -11,5 +11,4 @@ Skills: Fishing, Coming Up With Good Ideas, Pretending to Know Math, Cooking
 
 #### Don't let this cool profile distract you from an abject lack of contributions, too busy overthinking solutions to small problems xd
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/R0B11N)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/r0bin//)  
 
