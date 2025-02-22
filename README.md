@@ -123,7 +123,7 @@ Skills: Fishing, Coming Up With Good Ideas, Pretending to Know Math, Cooking
 
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gf55xhrz74lldqkagqnkwatuae)
 
-
+![snake gif](https://github.com/R0B11N/R0B11N/blob/output/github-snake-dark.svg)
 
 ###
 
