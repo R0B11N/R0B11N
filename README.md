@@ -113,7 +113,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
 </div>
 
-Skills: Fishing, Coming Up With Good Ideas, Pretending to Know Math, Cooking
+Skills: Fishing, Coming Up With Good Ideas, Powerlifting, Cooking
 
 - ![image](https://cdn.discordapp.com/emojis/986879238458196078.webp?size=16&quality=lossless) I’m currently working on my major mathematical modelling project! 🤓
 - ![image](https://cdn.discordapp.com/emojis/1013959897467060238.webp?size=16&quality=lossless) How to reach me: Email, or asking me about my favourite steak
