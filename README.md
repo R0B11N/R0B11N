@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&width=435&lines=Howdy!+My+Name+is+Robin.;Welcome+to+my+Github.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&width=435&lines=Howdy!+My+Name+is+Robin.;Welcome+to+my+Github.)](https://git.io/typing-svg) 
 #### I'm an aspiring Mathematician, who is experienced in Software Engineering, Machine Learning, Heuristics and Neural Networks.
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R0B11N&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&custom_title=(Likely%20Languages%20Used)" height="150" alt="languages graph"  />
+</div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -116,11 +118,14 @@ Skills: Fishing, Coming Up With Good Ideas, Pretending to Know Math, Cooking
 - ![image](https://cdn.discordapp.com/emojis/986879238458196078.webp?size=16&quality=lossless) I’m currently working on my major mathematical modelling project! 🤓
 - ![image](https://cdn.discordapp.com/emojis/1013959897467060238.webp?size=16&quality=lossless) How to reach me: Email, or asking me about my favourite steak
 - ![image](https://cdn.discordapp.com/emojis/853822088140685342.gif?size=16&quality=lossless) Fun fact: Groundhogs, my favourite animal have a special gland in their feet that helps them to communicate with other groundhogs.
+  ![image](https://media1.tenor.com/m/_2uuv0gFxw0AAAAd/welch-cat.gif)
+
 
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gf55xhrz74lldqkagqnkwatuae)
-  ![hippo](https://media1.tenor.com/m/_2uuv0gFxw0AAAAd/welch-cat.gif)
 
 
-#### Don't let this cool profile distract you from an abject lack of contributions, too busy overthinking solutions to small problems xd
+
+###
+
 
 
