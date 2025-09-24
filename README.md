@@ -115,8 +115,8 @@
 
 Skills: Fishing, Coming Up With Good Ideas, Powerlifting, Cooking
 
-- ![image](https://cdn.discordapp.com/emojis/986879238458196078.webp?size=16&quality=lossless) I’m currently working on my major mathematical modelling project! 🤓
-- ![image](https://cdn.discordapp.com/emojis/1013959897467060238.webp?size=16&quality=lossless) How to reach me: Email, or asking me about my favourite steak
+- ![image](https://cdn.discordapp.com/emojis/986879238458196078.webp?size=16&quality=lossless) I’m currently working on perfecting my grilling! 🤓
+- ![image](https://cdn.discordapp.com/emojis/1013959897467060238.webp?size=16&quality=lossless) How to reach me: Email, or asking me about my favourite steak.
 - ![image](https://cdn.discordapp.com/emojis/853822088140685342.gif?size=16&quality=lossless) Fun fact: Groundhogs, my favourite animal have a special gland in their feet that helps them to communicate with other groundhogs.
   ![image](https://media1.tenor.com/m/_2uuv0gFxw0AAAAd/welch-cat.gif)
 
