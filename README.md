@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&width=435&lines=Howdy!+My+Name+is+Robin.;Welcome+to+my+Github.)](https://git.io/typing-svg) 
-#### I'm an aspiring Mathematician, who is experienced in Quantitative Financial Applications, Machine Learning, Heuristics and Software Development.
+#### I'm a Mathematician, who is experienced in Quantitative Financial Applications, Machine Learning, Heuristics and Software Development.
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R0B11N&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&custom_title=(Likely%20Languages%20Used)" height="150" alt="languages graph"  />
 </div>
