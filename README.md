@@ -8,7 +8,7 @@ Skills: Fishing, Coming Up With Good Ideas, Powerlifting, Cooking
   ![image](https://media1.tenor.com/m/_2uuv0gFxw0AAAAd/welch-cat.gif)
 
 
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gf55xhrz74lldqkagqnkwatuae)
+  ![Alt text](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31gf55xhrz74lldqkagqnkwatuae)
 
 ![snake gif](https://github.com/R0B11N/R0B11N/blob/output/github-snake-dark.svg)
 
